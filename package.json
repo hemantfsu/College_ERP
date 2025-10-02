@@ -2,6 +2,7 @@
   "name": "college-erp",
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://hemantfsu.github.io/college_erp",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
