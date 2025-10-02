@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # College ERP - Unified Administration System
 
 A low-cost, responsive, and accessible web application for managing college operations including admissions, fee collection, hostel allocation, and examination records.
